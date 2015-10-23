@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 3.0
+apiversion: 2
+description: hello liumingxing
+author: liumingxing
+license: liumingxing
+copyright: mamashai.com copy right
+
+
+# these should not be edited
+name: tiwechat
+moduleid: com.mamashai.tiwechat
+guid: c3b560f8-e2db-4717-9bcb-f25bc4b6e317
+platform: iphone
+minsdk: 3.1.1.GA
